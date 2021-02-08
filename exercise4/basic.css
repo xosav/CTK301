@@ -1,0 +1,98 @@
+body {
+background-color: #cccccc;
+background-image: url(wallpaper.jpg);
+background-repeat: round;
+background-position: top left;
+}
+
+main{
+  background-color: #0000ff
+}
+
+h1{
+  color: #ffffff;
+}
+
+.customtext {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 24px;
+  color: #ffffff;
+}
+
+.fontcombined {
+font: bold 20px Arial, Helvetica, sans-serif;
+color: #ffffff;
+}
+
+.boxmodel {
+  border: 2px solid #0000ff;
+  padding: 20px 20px 20px 20px;
+  margin: 10px 10px 10px 10px;
+  color: #ffffff;
+}
+
+.otherbox{
+  border: 1px solid #00ff00;
+  padding: 10px;
+  margin: 20px;
+  color: #ffffff;
+}
+
+.zeroout {
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+}
+
+.pwidth {
+border: 1px solid #ff0000;
+width: 100px;
+padding: 10px;
+color: #ffffff;
+}
+
+.textright {
+text-align: right;
+font-size: 24px;
+color: #ffff00;
+}
+
+.textleft {
+text-align: left;
+font-size: 24px;
+color: #ffff00;
+}
+
+.textcenter {
+text-align: center;
+font-size: 24px;
+color: #ffff00;
+}
+
+.textjustify {
+text-align: justify;
+font-size: 24px;
+color: #ffff00;
+}
+
+.textspace {
+letter-spacing: 20px;
+font-size: 24px;
+color: #ffff00;
+}
+
+.textheight {
+line-height: 20px;
+font-size: 24px;
+color: #ffff00;
+}
+
+.imgbox {
+border: 5px solid #ff0000;
+padding: 10px;
+margin: 20px;
+background-color: #ffffff;
+height: 300px;
+}
